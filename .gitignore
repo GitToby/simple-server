@@ -1,0 +1,5 @@
+/simple-server-ui/node_modules/
+/simple-server-ui/build/
+/.venv/
+/.idea/
+**/*.iml
